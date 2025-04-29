@@ -12,19 +12,18 @@ I'm a Cloud Engineer and software enthusiast passionate about leveraging cutting
 ---
 
 ## 🔭 Currently Working On
-- Enhancing my skills in **PySpark** and **Terraform** for big data processing and infrastructure as code.
-
+- Enhancing my skills in **APEX** and **Triggers** for Salesforce Complex Problems.
 ---
 
 ## 🌱 Learning Next
-- Advanced techniques in **Go Language** for cloud development.
+- Advanced techniques in **LWC** for cloud skill development.
 - Deep dives into multi-cloud architecture and **Kubernetes** for container orchestration.
 
 ---
 
 ## ⚙️ Tech Interests
-- **Python**, **SQL**, **Terraform**, **PySpark**, **Boto3**, **Docker**, **AWS**, **Go Language**
-- **Databricks**, **AWS Services**, **Azure services**
+- **Python**, **SQL**, **Terraform**, **APEX**, **JAVA**, **Docker**, **AWS**, 
+- **Salesforce**, **AWS Services**, 
 - Cloud-based automation and infrastructure management
 - Data pipelines and big data processing
 
@@ -39,10 +38,10 @@ I'm a Cloud Engineer and software enthusiast passionate about leveraging cutting
 ---
 
 ## 🛠️ Tech Toolbox
-- **Programming Languages:** Python, SQL, Go Language
-- **Cloud & DevOps:** AWS, Terraform, Docker
-- **Big Data:** PySpark, Boto3, Redshift
-- **Tools & Platforms:** Azure AI Services, Git, Databricks
+- **Programming Languages:** Python, SQL, JAVA
+- **Cloud & DevOps:** AWS, Salesforce, Terraform, Docker
+- **Big Data:**  Boto3, Redshift
+- **Tools & Platforms:** Flow Builder, Git, Databricks
 
 ---
 
